@@ -1,5 +1,5 @@
 # EM-stellar
-This repository is official implementation of [**EM-stellar: benchmarking deep learning for electron microscopy image segmentation**](https://www.biorxiv.org/content/10.1101/2020.07.15.203836v1) on Google Colab.
+This repository is official implementation of [**EM-stellar: benchmarking deep learning for electron microscopy image segmentation**](https://academic.oup.com/bioinformatics/article/37/1/97/6069571) on Google Colab.
 
 ---
 
@@ -10,9 +10,9 @@ This repository is official implementation of [**EM-stellar: benchmarking deep l
 ---
 <font size = 4>Papers related to this Notebook: 
 
-- <font size = 3>**EM-stellar: benchmarking deep learning for electron microscopy image segmentation** by *Afshin Khadangi, Thomas Boudier, Vijay Rajagopal*  (https://www.biorxiv.org/content/10.1101/2020.07.15.203836v1)
+- <font size = 3>**EM-stellar: benchmarking deep learning for electron microscopy image segmentation** by *Afshin Khadangi, Thomas Boudier, Vijay Rajagopal*  (https://academic.oup.com/bioinformatics/article/37/1/97/6069571)
 
-- <font size = 3>**EM-net: Deep learning for electron microscopy image segmentation** by *Afshin Khadangi, Thomas Boudier, Vijay Rajagopal*  (https://www.biorxiv.org/content/10.1101/2020.02.03.933127v1)
+- <font size = 3>**EM-net: Deep learning for electron microscopy image segmentation** by *Afshin Khadangi, Thomas Boudier, Vijay Rajagopal*  (https://ieeexplore.ieee.org/document/9413098)
 
 
 <font size = 4>**Please cite** [**this original paper**](https://www.biorxiv.org/content/10.1101/2020.07.15.203836v1) **when using or developing this notebook.**
